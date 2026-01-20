@@ -67,6 +67,7 @@ Open with Live Server (recommended)
 
 
 ✅ Best Practices Followed
+
 Clean folder structure
 
 Separate HTML, CSS, JS files
@@ -79,6 +80,7 @@ Beginner-friendly logic
 
 
 💡 Who Is This For?
+
 Beginners learning JavaScript
 
 Students preparing for interviews
