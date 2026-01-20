@@ -68,28 +68,29 @@ Open with Live Server (recommended)
 
 ✅ Best Practices Followed
 
-Clean folder structure
+-Clean folder structure
 
-Separate HTML, CSS, JS files
+-Separate HTML, CSS, JS files
 
-Meaningful variable names
+-Meaningful variable names
 
-Commented code
+-Commented code
 
-Beginner-friendly logic
+-Beginner-friendly logic
 
 
 💡 Who Is This For?
 
-Beginners learning JavaScript
+-Beginners learning JavaScript
 
-Students preparing for interviews
+-Students preparing for interviews
 
-Anyone improving frontend skills
+-Anyone improving frontend skills
 
-Developers revising JS basics
+-Developers revising JS basics
 
-📜 License
+📜 License:
+
 This repository is open-source and created for learning purposes.
 
 ⭐ If you find this helpful, don’t forget to star the repository!
